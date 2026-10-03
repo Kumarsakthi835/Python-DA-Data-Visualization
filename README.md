@@ -130,9 +130,12 @@ is to extract meaningful insights through various visualization techniques.
 
 
 ### Task 2 – Missing Values Handled
-<img width="534" height="176" alt="image" src="https://github.com/user-attachments/assets/d148813f-26da-454c-a6c6-45a33265ce7d" />
 
-<img width="688" height="269" alt="image" src="https://github.com/user-attachments/assets/070a934b-9193-4ba5-b638-ae4f43334984" />
+<img width="533" height="167" alt="image" src="https://github.com/user-attachments/assets/86a89d10-ca00-4992-96d3-ed29a291d9d7" />
+
+
+<img width="576" height="224" alt="image" src="https://github.com/user-attachments/assets/1e060e7b-f158-4314-93b3-ba47f8797ab9" />
+
 
 
 ### Task 3 – Line Chart: Fare Over Time
@@ -182,6 +185,7 @@ is to extract meaningful insights through various visualization techniques.
 ### Task 11 – Pair Plot: Pairwise Relationships
 
 <img width="476" height="105" alt="image" src="https://github.com/user-attachments/assets/297ad0a8-38cd-4942-9908-746adfe673f5" />
+
 
 <img width="362" height="257" alt="image" src="https://github.com/user-attachments/assets/1a8bb812-3de2-49a7-bf78-a5356945a2a8" />
 
