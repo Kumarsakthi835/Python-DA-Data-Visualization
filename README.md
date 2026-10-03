@@ -120,30 +120,37 @@ is to extract meaningful insights through various visualization techniques.
 
 ### Task 1 – Load Dataset and Missing Values
 <img width="523" height="191" alt="image" src="https://github.com/user-attachments/assets/ce3c0770-b3a6-4d68-b3c9-d982d384ed88" />
+
 <img width="510" height="222" alt="image" src="https://github.com/user-attachments/assets/dc0df7f8-84ce-4d2e-b04b-96e9afa6e6dd" />
+
 <img width="431" height="95" alt="image" src="https://github.com/user-attachments/assets/8d953988-4cf8-4432-a8b5-ac7877e81d9e" />
+
 <img width="308" height="218" alt="image" src="https://github.com/user-attachments/assets/293a739f-96b4-42b2-81f8-bbc96673ad34" />
 
 
 
 ### Task 2 – Missing Values Handled
 <img width="534" height="176" alt="image" src="https://github.com/user-attachments/assets/d148813f-26da-454c-a6c6-45a33265ce7d" />
+
 <img width="688" height="269" alt="image" src="https://github.com/user-attachments/assets/070a934b-9193-4ba5-b638-ae4f43334984" />
 
 
 ### Task 3 – Line Chart: Fare Over Time
 
 <img width="534" height="176" alt="image" src="https://github.com/user-attachments/assets/cbb4bbe8-c201-4d25-80ad-12db1cc0e1cc" />
+
 <img width="688" height="269" alt="image" src="https://github.com/user-attachments/assets/e08dccaa-3014-4600-a8b0-68052832cd0d" />
 
 
 ### Task 4 – Bar Chart: Total Fare by Borough
 <img width="674" height="176" alt="image" src="https://github.com/user-attachments/assets/734b6004-b9ce-48be-bae0-b1c2b9949786" />
+
 <img width="509" height="295" alt="image" src="https://github.com/user-attachments/assets/51b932ed-2755-414f-b38c-cb1b4184b6cb" />
 
 
 ### Task 5 – Pie Chart: Payment Method Distribution
 <img width="602" height="134" alt="image" src="https://github.com/user-attachments/assets/08e62b82-5d89-47d6-9396-bfcf87d10632" />
+
 <img width="391" height="344" alt="image" src="https://github.com/user-attachments/assets/29a5214d-7563-4298-9320-ddee6ecfd96f" />
 
 
@@ -162,26 +169,27 @@ is to extract meaningful insights through various visualization techniques.
 
 ### Task 9 – Scatter Plot: Distance vs Fare
 <img width="431" height="140" alt="image" src="https://github.com/user-attachments/assets/ec038dac-891b-4ab0-9b5f-1f75e2a0e573" />
+
 <img width="535" height="299" alt="image" src="https://github.com/user-attachments/assets/ef85716e-6b7e-4945-9b4a-aa1fd36942c5" />
 
 
 ### Task 10 – Heatmap: Correlation Matrix
 <img width="421" height="113" alt="image" src="https://github.com/user-attachments/assets/e135f460-96bc-499c-b327-b0971360a3ed" />
+
 <img width="431" height="301" alt="image" src="https://github.com/user-attachments/assets/eef0744f-1ed8-4196-a8e8-f762bcfc22a1" />
 
 
 ### Task 11 – Pair Plot: Pairwise Relationships
 
 <img width="476" height="105" alt="image" src="https://github.com/user-attachments/assets/297ad0a8-38cd-4942-9908-746adfe673f5" />
+
 <img width="362" height="257" alt="image" src="https://github.com/user-attachments/assets/1a8bb812-3de2-49a7-bf78-a5356945a2a8" />
 
 ### Task 12 – Violin Plot: Fare by Payment Method
 
 <img width="458" height="129" alt="image" src="https://github.com/user-attachments/assets/5c1efd79-8c1c-4ea0-a567-813c96484e89" />
+
 <img width="516" height="296" alt="image" src="https://github.com/user-attachments/assets/e285906e-b02a-417a-ae1c-f2dbfdbb6f3f" />
-
-
-
 ---
 
 ## 🔍 Key Insights
